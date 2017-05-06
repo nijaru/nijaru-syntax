@@ -5,4 +5,5 @@ A higher contrast theme that highlights operators.
 ## Install
 > apm i nijaru-syntax
 
-![screenshot](screenshot.png)
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/nijaru/nijaru-syntax/master/screenshot.png)
