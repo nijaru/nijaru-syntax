@@ -1,7 +1,7 @@
 {
   "name": "nijaru-syntax",
   "theme": "syntax",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A higher contrast theme that highlights operators. Tested with and without f.lux.",
   "keywords": [
     "syntax",
